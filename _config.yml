@@ -1,0 +1,23 @@
+name: Silesti
+favicon: null
+layout_spectrum: 0.630565543891862
+typography_spectrum: 0.4101342116482556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10775758814997971
+  lightness: 0.5410370358731598
+  saturation: 0.7873958197887987
+  rhythmicContrast: 0.9904712177813053
+purpose: []
