@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wanderings]]></title>
+        <description><![CDATA[Wanderings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 Nov 2015 08:25:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wandering]]></title>
+            <description><![CDATA[<article><h1>Wandering</h1><p>If life is a journey, why do we rush ahead taking the direct route?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf4dfae7-8f70-4da2-bdca-abbf8c81c84f.JPG"></article>]]></description>
+            <link>undefinedwandering/index.html</link>
+            <guid isPermaLink="false">b945407c-9b90-40f3-8924-608a5e79a4ba</guid>
+            <pubDate>Wed, 04 Nov 2015 08:25:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
