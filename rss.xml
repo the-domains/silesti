@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wanderings]]></title>
+        <description><![CDATA[Wanderings]]></description>
+        <link>https://thegrid.ai/silesti/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 20:50:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/silesti/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbce6755-9210-43c8-8531-f24d5dc8908c.jpg">]]></description>
+            <link>https://thegrid.ai/silesti/9cadd01e-96a9-4337-8ff7-8d927708d4b8/index.html</link>
+            <guid isPermaLink="false">9cadd01e-96a9-4337-8ff7-8d927708d4b8</guid>
+            <pubDate>Mon, 08 Feb 2016 20:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past connects with present]]></title>
+            <description><![CDATA[<article><h1>Past connects with present</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a585f8ea1d3e8749c9bbd9c369945654d03295cf.png"></article>]]></description>
+            <link>http://www.dabs.com/learnmore/computers/recreated-zx-spectrum/?utm_source=retention%20email&amp;utm_medium=email&amp;utm_campaign=SinclairZX_email_110915&amp;utm_content=se01</link>
+            <guid isPermaLink="false">0acfe321-59de-40bc-b019-848efaff2622</guid>
+            <pubDate>Wed, 04 Nov 2015 08:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wandering]]></title>
+            <description><![CDATA[<article><h1>Wandering</h1><p>If life is a journey, why do we rush ahead taking the direct route?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9940de5a4e98ba880c6b9d3d503116f60f1b1be.jpg"></article>]]></description>
+            <link>https://thegrid.ai/silesti/wandering/index.html</link>
+            <guid isPermaLink="false">b945407c-9b90-40f3-8924-608a5e79a4ba</guid>
+            <pubDate>Wed, 04 Nov 2015 08:25:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
