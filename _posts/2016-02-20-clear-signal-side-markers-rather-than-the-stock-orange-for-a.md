@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Before and after pics - side marker swap out orange to clear
-datePublished: '2016-02-20T19:17:25.493Z'
-dateModified: '2016-02-20T19:15:44.304Z'
+datePublished: '2016-02-22T12:46:11.911Z'
+dateModified: '2016-02-22T12:46:06.729Z'
 author: []
 title: Clear signal side markers rather than the stock orange for a cleaner look.
+sourcePath: _posts/2016-02-20-clear-signal-side-markers-rather-than-the-stock-orange-for-a.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-clear-signal-side-markers-rather-than-the-stock-orange-for-a.md
-published: true
 url: clear-signal-side-markers-rather-than-the-stock-orange-for-a/index.html
 _context: 'http://schema.org'
 _type: Article
